@@ -1,17 +1,26 @@
-### Hello! 👋
+
+
+# Hello! 👋
 
 
 ## 🚀 About Me
 
-I am a last year student at PUT. I have a great passion for problem solving and software engineering. </br>
+<div align="center">
+  
+I am a last year student at PUT. I have a great passion for problem solving and software engineering. </br> </br>
 🌱 Trying to build something everyday 🌱
 
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hubertbraszko)](https://git.io/streak-stats)
-
+  
+</div>
 
 ## 🛠️ Languages and tools
 
+<div align="center">
+
 ### I feel best in
+
 
 ![java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
@@ -27,5 +36,7 @@ I am a last year student at PUT. I have a great passion for problem solving and 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
+</div>
+  
 ## Take a look at my projects below:
 
