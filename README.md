@@ -11,7 +11,6 @@ I am a last year student at PUT. I have a great passion for problem solving and 
 🌱 Trying to build something everyday 🌱
 
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hubertbraszko)](https://git.io/streak-stats)
   
 </div>
 
