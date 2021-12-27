@@ -8,7 +8,6 @@
 <div align="center">
   
 I am a last year student at PUT. I have a great passion for problem solving and software engineering. </br> </br>
-🌱 Trying to build something everyday 🌱
 
   
   
